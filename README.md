@@ -7,4 +7,13 @@ Insights and recommendations are provided on the following key areas:
 - Shows OPD goal achievements (2014–2022), target vs realization (2018–2022), qualified teacher growth, 61.67% achieved indicators, and KPI clusters such as schooling years, graduation, and enrollment rates.
 - Shows student distribution by level (public/private), facility availability (classrooms, labs, libraries), school accreditation (A 46.76%, B 46.76%, Not Accredited 8.7%), and a school quality clustering map across Kediri.
 
+# Data Structure & Initial Checks
+The data were collected from various sources, including the official website of Kediri City and the Kediri City Strategic Plan (Renstra).
+
+![63fbddca-9d2a-4c4f-86e0-bbe5383de7d4](https://github.com/user-attachments/assets/555d37cd-08ca-426a-be86-cae68773e37f)
+
+# Executive Summary
+### Overview of Findings
+
+<img width="895" height="505" alt="dash-1" src="https://github.com/user-attachments/assets/e93620b5-bc03-4487-bd24-c8ed80a36d10" />
 
