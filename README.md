@@ -17,9 +17,11 @@ The data were collected from various sources, including the official website of 
 
 <img width="895" height="505" alt="dash-1" src="https://github.com/user-attachments/assets/e93620b5-bc03-4487-bd24-c8ed80a36d10" />
 
+
 - Kediri City has 215 schools (from elementary to vocational levels), 3,875 teachers, and 66,000 students.
 - The graph also shows that the growth ratio of teachers and schools tends to be consistent from 2020 to 2023, with a slight decline at the junior high school level in 2023.
 - Ideally, one teacher should teach a maximum of 20 students at the elementary to senior high school levels, and a maximum of 15 students at the vocational level. Based on the teacher–student ratio graph, the ratios are as follows: elementary 1:16, junior high 1:17, senior high 1:16, and vocational 1:17. Among all levels, the vocational schools exceed the ideal ratio.
+
 
 <img width="896" height="498" alt="dash-2" src="https://github.com/user-attachments/assets/aa65c44f-d2a6-4eb0-a26c-5a530423e284" />
 
@@ -28,10 +30,27 @@ The data were collected from various sources, including the official website of 
 - The Growth of Qualified Teachers (2014–2020) graph shows that, the number of qualified teachers and the total number of teachers fluctuated between 2014 and 2020, with the sharpest decline occurring in 2018 before increasing again in the following years. Although there has been a recovery trend, the number of qualified teachers has not yet returned to the highest level seen in the earlier years. The average number of qualified teachers is around 4,218, indicating that efforts to improve teacher qualifications still need to be strengthened to achieve more stable growth.
 - The OPD Performance Indicator Achievement Status graph shows that, a total of 61.67% of performance indicators were achieved, while 38.33% were not. This percentage shows that overall OPD performance is fairly good, but there is still room for improvement. Further analysis is needed to identify the factors behind the unachieved indicators so that future planning and program implementation can be more effective.
 - The Performance Indicator Classification chart shows that most education indicators in Kediri City fall into the “Very High” category, reflecting excellent performance across various aspects of education. Indicators such as the expected years of schooling, literacy rate, graduation rate for SD/MI and SMP/MTS, and the percentage of qualified teachers are all classified as very high, indicating strong quality and equity in education. Only a few indicators, such as the gross and net enrollment rates for Package B programs, remain in the “Moderate” category, suggesting there is still room for improvement in non-formal education sectors. Overall, these achievements illustrate that Kediri City’s education system has reached an optimal level of performance but still needs to focus on increasing participation in alternative education pathways.
+  
 
 <img width="896" height="499" alt="dash-3" src="https://github.com/user-attachments/assets/b6b978ab-6981-4fe2-b2b9-30072394d76c" />
+
 
 - The Number of Students by Education Level graph shows that, the highest number of students is found at the elementary school (SD) level, with more than 15,000 students enrolled in both public and private schools. The number of students drops significantly at the junior high (SMP) through vocational school (SMK) levels, then slightly increases again at the senior high school (SMA) level. This pattern indicates that student participation remains high in basic education but declines at the secondary level, suggesting possible transition challenges or barriers to continuing education.
 - The Availability of Facilities by Education Level graph shows that, educational facilities such as classrooms, laboratories, and libraries are most abundant at the elementary (SD) level, with 1,061 classrooms, 78 laboratories, and 130 libraries. The availability of facilities decreases at higher education levels, with senior high schools (SMA) having the fewest. This reflects an imbalance in infrastructure between education levels, which may affect learning quality and access.
 - The School Accreditation graph shows that, most schools have been accredited, with 46.67% rated “A” and another 46.67% rated “B,” while only 8.73% remain unaccredited. This distribution indicates that the majority of schools in Kediri maintain a good level of educational quality, though further improvement is still needed for schools that are unaccredited or have lower accreditation grades.
 - The School Quality Clustering Results graph shows that, the school quality clustering map shows varied quality distribution across Kediri, with most high-quality schools concentrated in urban areas such as Kediri city and its surroundings. Meanwhile, schools in outer regions such as Semen, Puncu, and Gurah tend to be more dispersed. This indicates a regional disparity in school quality, highlighting the need for policies that promote more equitable access to quality education.
+
+
+### Recommendations :
+Based on uncovered insights, the following recommendations have been provided:
+- Distribute teachers more evenly across education levels.
+Teacher allocation should be balanced between primary, junior, and senior levels to reduce disparities in teacher-student ratios.
+- Prioritize increasing the number of teachers in primary schools.
+The data shows primary schools have the highest teacher shortages, so recruitment and placement should focus on this level.
+- Enhance teacher training and development programs.
+Regular training will improve teaching quality and help teachers adapt to evolving educational needs and technologies.
+- Ensure equitable distribution of school facilities and infrastructure.
+Schools with limited resources should receive prioritized investment to promote fair learning environments.
+- Focus resources on schools facing the greatest shortages.
+Direct funding, equipment, and support to schools with insufficient teachers and poor infrastructure to boost overall education quality.
+
